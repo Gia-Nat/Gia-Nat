@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/Gia-Nat/Gia-Nat/blob/main/software-developer.png" alt="programming-languages.png">
+<img src="https://github.com/Gia-Nat/Gia-Nat/blob/main/programming-languages.png" alt="programming-languages.png">
 <!--
 **Gia-Nat/Gia-Nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
