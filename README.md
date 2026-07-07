@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/Gia-Nat/Gia-Nat/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/{Gia-Nat}/{Gia-Nat}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 <!--
 **Gia-Nat/Gia-Nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
