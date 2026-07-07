@@ -1,10 +1,34 @@
-## Hi there 👋
 <img src="https://github.com/Gia-Nat/Gia-Nat/blob/main/programming-languages.png" alt="programming-languages.png">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Gianpiero+Natale!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications. I have a passion for technology and I love coding.
+### A full-stack software engineer student passionate about building beautiful, functional, and user-centric web applications. I have a passion for technology and I love coding.
+- I am currently studying Software Development at New College Lanarkshire.
+- In my free time I am developing a pixel art historical videogame on Godot.
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,python,aws,azure,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,git," />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gia-Nat&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Gianpiero's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gia-Nat&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Gianpiero's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gia-Nat&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Gianpiero's Most Used Languages" />
+</div>
+
+<hr>
 <!--
 **Gia-Nat/Gia-Nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
