@@ -22,10 +22,10 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gia-Nat&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Gianpiero's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gia-Nat&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Gianpiero's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gia-Nat&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Gianpiero's Most Used Languages" />
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Gia-Nat&amp;theme=transparent&amp;count_private=true&amp;show_icons=true&amp;rank_icon=github&amp;locale=en" alt="Gianpiero's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Gia-Nat&amp;theme=transparent&amp;count_private=true&amp;border_radius=10&amp;locale=en" alt="Gianpiero's Streak Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gia-Nat&amp;theme=transparent&amp;layout=donut&amp;hide=css&amp;langs_count=8&amp;border_radius=10&amp;show_icons=true&amp;locale=en" alt="Gianpiero's Most Used Languages" />
 </div>
 
 <hr>
