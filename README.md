@@ -16,6 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,git," />
 </p>
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 <hr>
 
 
